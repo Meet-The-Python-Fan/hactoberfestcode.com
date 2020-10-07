@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
 {
     printf
     (
-        "heloo keshav\n"
+        "heloo hacktober\n"
         
         
         
